@@ -9,6 +9,7 @@
 public typealias Model = String
 
 public extension Model {
+    static let gpt5 = "gpt-5"
     
     // MARK: - Reasoning Models
     // o-series models that excel at complex, multi-step tasks.
